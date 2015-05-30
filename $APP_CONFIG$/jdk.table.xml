@@ -1,0 +1,31 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at D:\Python\venvs\django_1" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="D:\Python\venvs\django_1\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Python/venvs/django_1/Lib" />
+            <root type="simple" url="file://D:/Python/venvs/django_1/Scripts" />
+            <root type="simple" url="file://C:/Python34/Lib" />
+            <root type="simple" url="file://C:/Python34/DLLs" />
+            <root type="simple" url="file://D:/Python/venvs/django_1" />
+            <root type="simple" url="file://D:/Python/venvs/django_1/Lib/site-packages" />
+            <root type="simple" url="jar://C:/Python34/Lib/site-packages/setuptools-15.2-py3.4.egg!/" />
+            <root type="simple" url="file://C:/Python34" />
+            <root type="simple" url="file://C:/Python34/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-30403908" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
